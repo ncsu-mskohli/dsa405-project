@@ -1,1 +1,1 @@
-Every file in this subdirectory should have the same name as its raw data file + `_clean`.
+Every file in this subdirectory should have the same name as its raw data file + `_clean` and will have new versions recorded directly onto the same name as new commits. Any special or notable versions may be uploaded separately with a unique name.
